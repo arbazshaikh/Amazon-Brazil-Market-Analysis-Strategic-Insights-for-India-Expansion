@@ -1,0 +1,2 @@
+# Amazon-Brazil-Market-Analysis-Strategic-Insights-for-India-Expansion
+Comprehensive data analysis project aimed at leveraging Amazon Brazil's market data to inform strategic decision-making for Amazon India. By examining customer behaviors, purchasing trends, and regional preferences in Brazil, this project identifies actionable insights to optimize the market strategy, enhance customer experience, and drive growth.
